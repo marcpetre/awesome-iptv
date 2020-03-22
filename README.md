@@ -4,9 +4,7 @@ A curated list of resources related to IPTV.
 
 ## Contents
 
-- [Apps](#apps)
-- [Providers](#providers)
-- [Channel data sources](#channel-data-sources)
+- ces](#channel-data-sources)
 - [EPG sources](#epg-sources)
 - [Tools](#tools)
 
@@ -91,7 +89,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 
 ## Tools
 
-Useful tools for working with IPTV.
+Useful tools for working with IPTV.http://195.154.221.171/epg/guidearab.xml.gz
 
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
